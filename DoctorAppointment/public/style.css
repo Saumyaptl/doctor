@@ -1,0 +1,27 @@
+ body {
+    background-image: url('https://c8.alamy.com/comp/PR2DK8/modern-office-interior-with-beautiful-worm-daylight-and-city-skyline-in-the-background-PR2DK8.jpg');
+    background-size: cover;
+    
+    }  
+    .card{
+        margin: 5em;
+        margin-left: 20em;
+        margin-right: 350px;
+
+        background-color: white;
+        color:black;
+    }
+    .card-header{
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+
+    }
+    .card-body{
+        padding: 20px;
+        padding-bottom: 50px;
+    }
+    .mb-3{
+        padding: 15px;
+    }
+    
